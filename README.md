@@ -2,9 +2,8 @@
 
 Welcome to my GitHub profile! I’m a cloud enthusiast, developer, and problem solver with a passion for creating efficient, scalable solutions. From cloud architecture to scripting and automating workflows, I’m always exploring new technologies to push boundaries and deliver quality results. I LOVE Cloud Infrastructure and Infrastructure Automation. 
 
-### 🌐 Explore My Work
-- **Personal Website**: [rainier.cloudkid.link](https://rainier.cloudkid.link)  
-  Dive deeper into my projects, experience, and the latest things I’m working on.
+### 🌐 Explore My Journey
+- **Personal Website**: [rainier.cloudkid.link](https://rainier.cloudkid.link)
 
 ### 🔧 Technologies & Tools
 - **Languages**: PowerShell, C#, Bash, SQL, Scriban, PromQL
