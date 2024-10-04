@@ -22,8 +22,6 @@ Welcome to my GitHub profile! I’m a cloud enthusiast, developer, and problem s
 - **Website**: [rainier.cloudkid.link](https://rainier.cloudkid.link)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rainier-cloudkid/)
 
-Let’s create something awesome together! 🚀
-
 <!--
 **rainiersvn/rainiersvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
