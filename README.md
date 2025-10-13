@@ -1,18 +1,5 @@
 <p align="center">
-  <svg width="640" height="90" viewBox="0 0 640 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hi there, I'm Rainier van Niekerk">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#3b82f6"/>
-        <stop offset="55%" stop-color="#6366f1"/>
-        <stop offset="100%" stop-color="#8b5cf6"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-family="system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,sans-serif"
-          font-size="36" font-weight="600" fill="url(#grad)">
-      Hi there, I'm Rainier van Niekerk 👋
-    </text>
-  </svg>
+  <img src="./banner.svg" width="640" height="90" alt="Hi there, I'm Rainier van Niekerk" />
 </p>
 
 <h2> ☁ Cloud & DevOps Specialist | ⚙ Infrastructure & Automation </h2>
