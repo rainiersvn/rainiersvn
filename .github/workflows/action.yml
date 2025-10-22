@@ -1,26 +1,16 @@
-name: Github Actions GH-200
-
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
-jobs:
-  gh-200:
-    runs-on: ubuntu-latest
-    concurrency:
-      group: deploy-to-r2-${{ github.ref }}
-      cancel-in-progress: false
-    steps:
-      - uses: actions/github-script@v8
-        id: set-result
-        with:
-          script: return "Hello!"
-          result-encoding: string
-      - name: Get result
-        run: echo "${{steps.set-result.outputs.result}}"
-      - name: View context attributes
-        uses: actions/github-script@v8
-        with:
-          script: console.log(context)
+name: "GH-200 Action"
+description: "GH-200: GitHub Actions"
+inputs:
+  base: # id of input
+    description: "Base URL"
+    required: true
+    default: "https://docs.github.com/en/actions/get-started/understand-github-actions"
+outputs:
+  time: # id of output
+    description: "Shows URL"
+runs:
+  using: "node16"
+  main: "dist/index.js"
+branding:
+  icon: "globe"
+  color: "blue"
