@@ -1,39 +1,52 @@
 <p align="center">
-  <img src="./banner.svg" width="640" height="90" alt="Hi there, I'm Rainier van Niekerk" />
+  <a href="https://cloudkid.link">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cloudkid-logo-white.svg">
+      <img src="./assets/cloudkid-logo-black.svg" alt="Cloudkid" height="40">
+    </picture>
+  </a>
 </p>
 
-<h2> ☁ Cloud & DevOps Specialist | ⚙ Infrastructure & Automation </h2>
+<p align="center">
+  <img src="./banner.svg" width="640" height="150" alt="Hi, I'm Rainier van Niekerk" />
+</p>
 
-<p>I’m a cloud enthusiast, engineer, and problem solver passionate about building efficient, scalable solutions. From cloud architecture to scripting and automation, I love simplifying complexity and enabling teams to deliver faster, safer, and repeatable outcomes. Deeply into <strong>Cloud Infrastructure</strong> & <strong>Infrastructure Automation</strong>.</p
+<p align="center"><code>DevOps · Platform · Cloud</code></p>
+
+<p>Cloud engineer and DevOps specialist based in Cape Town. I build and automate infrastructure — cloud architecture, scripting, CI/CD — so teams ship faster with fewer surprises. Deep in <strong>Cloud Infrastructure</strong> and <strong>Infrastructure Automation</strong>, under my personal brand <strong>Cloudkid&trade;</strong>.</p>
 
 <hr/>
 
-### 🌐 Explore My Journey
+### 01 — Website
 
-- **Personal Website**: [rainier.cloudkid.link](https://rainier.cloudkid.link)
+- **Personal site**: [rainier.cloudkid.link ↗](https://rainier.cloudkid.link)
 
-### 🔧 Technologies & Tools
+### 02 — Stack
 
-- **Languages**: PowerShell, C#, Bash, SQL, Scriban, PromQL
-- **Cloud**: Azure, Kubernetes, Terraform
-- **DevOps**: Docker, Nginx, CI/CD
-- **Databases**: SQL Server, Entity Framework
+- **Languages**: PowerShell · C# · Bash · SQL · Scriban · PromQL
+- **Cloud**: Azure · Kubernetes · Terraform
+- **DevOps**: Docker · Nginx · CI/CD
+- **Databases**: SQL Server · Entity Framework
 
-### 🔭 Current Projects
+### 03 — Current Projects
 
-- [Korban Ministries](https://korbanministries.co.za/): Online Gospel Ministry platform (content & delivery infrastructure).
-- [Online Webinar Platform](https://online.cloudkid.link/): Self-hosted webinar/event delivery site (automation & reliability focus).
-- [Wedding Photo Gallery](https://wedding.cloudkid.link/): Static optimized media gallery hosted via edge delivery.
+- [Korban Ministries ↗](https://korbanministries.co.za/) — online gospel ministry platform. Content & delivery infrastructure.
+- [Online Webinar Platform ↗](https://online.cloudkid.link/) — self-hosted webinar/event delivery. Automation & reliability focus.
+- [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — static, optimized media gallery on edge delivery.
 
-### 💬 Get in Touch
+### 04 — Contact
 
-- **Website**: [rainier.cloudkid.link](https://rainier.cloudkid.link)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rainier-cloudkid/)
+If you think my skill sets could help your organization, let's connect.
+
+- **Website**: [rainier.cloudkid.link ↗](https://rainier.cloudkid.link)
+- **LinkedIn**: [rainier-cloudkid ↗](https://www.linkedin.com/in/rainier-cloudkid/)
 
 <br/><hr/><br/>
 
 <p align="center">
   <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=rainiersvn&repo=rainiersvn&countColor=%236366f1" />
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=rainiersvn&repo=rainiersvn&countColor=%23A964F7" />
    </a>
 </p>
+
+<p align="center"><sub>Designed &amp; built in Cape Town · 8000</sub></p>
