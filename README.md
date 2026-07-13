@@ -10,33 +10,66 @@
 
 <p align="center"><sub>Cape Town · 8000 &nbsp;·&nbsp; 8× Multi-Cloud Certified &nbsp;·&nbsp; AWS · Azure · GCP · GitHub</sub></p>
 
-<hr/>
+<p align="center"><img src="./divider.svg" width="640" height="4" alt=""></p>
 
-### 01 — Website
+### 01 — About
 
-- **Personal site** (built under my personal brand **Cloudkid&trade;**): [rainier.cloudkid.link ↗](https://rainier.cloudkid.link)
+I'm a Cape Town-based DevOps Engineer building software professionally since February 2018. I started full-stack and gravitated to cloud-first systems and automation — the parts of software that scale, improve reliability, and make teams faster.
 
-### 02 — Stack
+Today I focus on Platform and DevOps Engineering: observability, infrastructure automation, and secure, resilient architectures. Long-term, I'm working toward becoming a **DevSecOps architect**.
 
-- **Languages**: PowerShell · C# · Bash · SQL · Scriban · PromQL
-- **Cloud**: Azure · Kubernetes · Terraform
-- **DevOps**: Docker · Nginx · CI/CD
+More at [rainier.cloudkid.link ↗](https://rainier.cloudkid.link) — built under my personal brand **Cloudkid&trade;**.
+
+### 02 — Experience
+
+- **DevOps Specialist · Shareholder**, Singular Systems — `05.2023 — Present`
+  Platform stability and expansion — Kubernetes · Terraform · GitHub Actions · Prometheus/Grafana. Offered shares within two years.
+- **Cloud Engineer**, Hooligan Development — `09.2022 — 04.2023 · 8m`
+  Live-streaming infrastructure for millions of concurrent users (incl. DAZN Poland) on AWS via Terraform. 99.9% uptime target.
+- **Software Engineer**, Kurtosys Systems — `09.2020 — 08.2022 · 2y`
+  Owned 5–6 backend microservices end-to-end. Led a fleet-wide Lambda runtime modernization.
+- **Junior Full-Stack Developer**, Seed Analytics — `02.2018 — 08.2020 · 2y 7m`
+  Full-stack across CakePHP, Java microservices and AWS. First cloud migration: EC2 → ECS.
+
+### 03 — Certifications
+
+`8× cloud certified` across AWS · Azure · HashiCorp · GitHub.
+
+| Certification | Issuer | Earned |
+|---|---|---|
+| [GitHub Administration ↗](https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/e1c148b6c3e965a9) | GitHub | 12.2025 |
+| [GitHub Actions ↗](https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/865a600e6fbedd3a) | GitHub | 11.2025 |
+| [Azure Solutions Architect Expert ↗](https://learn.microsoft.com/api/credentials/share/en-us/rainiervanniekerk-2216/7C0E9518B051F71E) | Azure | 09.2025 |
+| [Terraform Associate (003) ↗](https://www.credly.com/badges/0991661f-0e97-44e7-b34f-85cb7ccf249c) | HashiCorp | 08.2024 |
+| [Azure Administrator Associate ↗](https://learn.microsoft.com/api/credentials/share/en-us/rainiervanniekerk-2216/236D28C4BC6C5223) | Azure | 11.2023 |
+| [Azure Developer Associate ↗](https://learn.microsoft.com/api/credentials/share/en-us/rainiervanniekerk-2216/23CDA41A406ADE34) | Azure | 09.2023 |
+| [AWS Solutions Architect Associate ↗](https://www.credly.com/badges/81ecee11-ec71-40db-a40a-1fe1fa679b6e) | AWS | 05.2023 |
+| [AWS Developer Associate ↗](https://www.credly.com/badges/a362e869-bda3-49e5-8e1c-ca7a0aaaba07) | AWS | 02.2023 |
+| Higher Cert. Information Systems Engineering | Eduvos | 02.2018 · 81% |
+
+### 04 — Stack
+
+- **Languages**: PowerShell · C# · Bash · SQL · Scriban · PromQL · Node.js
+- **Cloud**: Azure · AWS · GCP · Cloudflare · Kubernetes · Terraform
+- **DevOps**: Docker · Nginx · GitHub Actions · Ansible · CI/CD
 - **Databases**: SQL Server · Entity Framework
 
-### 03 — Current Projects
+### 05 — Selected Work
 
-- [Korban Ministries ↗](https://korbanministries.co.za/) — online gospel ministry platform. Content & delivery infrastructure.
-- [Online Webinar Platform ↗](https://online.cloudkid.link/) — self-hosted webinar/event delivery. Automation & reliability focus.
-- [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — static, optimized media gallery on edge delivery.
+- [Korban Ministries ↗](https://korbanministries.co.za/) — online gospel ministry platform. Managed CMS, automated deploys, CDN-backed media.
+- [Cloudkid Webinar Platform ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
+- [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — private gallery for Zevenwacht Wine Estate. Secure storage, image optimization, edge delivery.
 
-### 04 — Contact
+### 06 — Contact
 
-If you think my skill sets could help your organization, let's connect.
+Open to new roles. If my experience in Cloud, DevOps, Automation, or Platform Engineering could help your organization, I'm glad to talk.
 
-- **Website**: [rainier.cloudkid.link ↗](https://rainier.cloudkid.link)
+- **Email**: [rainier@cloudkid.link](mailto:rainier@cloudkid.link)
 - **LinkedIn**: [rainier-cloudkid ↗](https://www.linkedin.com/in/rainier-cloudkid/)
+- **GitHub**: [@rainiersvn ↗](https://github.com/rainiersvn)
 
-<br/><hr/><br/>
+<br/>
+<p align="center"><img src="./divider.svg" width="640" height="4" alt=""></p>
 
 <p align="center">
   <a href="#">

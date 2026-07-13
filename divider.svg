@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="4" viewBox="0 0 640 4" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="hsl(272 100% 78%)"/>
+      <stop offset="45%" stop-color="hsl(268 90% 66%)"/>
+      <stop offset="100%" stop-color="hsl(45 90% 58%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="4" rx="2" fill="url(#grad)"/>
+</svg>
