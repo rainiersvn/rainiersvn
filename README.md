@@ -1,25 +1,20 @@
 <p align="center">
-  <a href="https://cloudkid.link">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/cloudkid-logo-white.svg">
-      <img src="./assets/cloudkid-logo-black.svg" alt="Cloudkid" height="40">
-    </picture>
-  </a>
+  <img src="./avatar.svg" width="120" height="120" alt="Rainier van Niekerk">
 </p>
 
-<p align="center">
-  <img src="./banner.svg" width="640" height="150" alt="Hi, I'm Rainier van Niekerk" />
-</p>
+<p align="center"><sub><code>'STERBEN' A·K·A</code></sub></p>
 
-<p align="center"><code>DevOps · Platform · Cloud</code></p>
+<h1 align="center">Rainier van Niekerk</h1>
 
-<p>Cloud engineer and DevOps specialist based in Cape Town. I build and automate infrastructure — cloud architecture, scripting, CI/CD — so teams ship faster with fewer surprises. Deep in <strong>Cloud Infrastructure</strong> and <strong>Infrastructure Automation</strong>, under my personal brand <strong>Cloudkid&trade;</strong>.</p>
+<p align="center">DevOps &amp; Cloud Specialist — crafting resilient cloud infrastructure: observability, IaC, automation pipelines, and secure architectures that let teams ship faster.</p>
+
+<p align="center"><sub>Cape Town · 8000 &nbsp;·&nbsp; 8× Multi-Cloud Certified &nbsp;·&nbsp; AWS · Azure · GCP · GitHub</sub></p>
 
 <hr/>
 
 ### 01 — Website
 
-- **Personal site**: [rainier.cloudkid.link ↗](https://rainier.cloudkid.link)
+- **Personal site** (built under my personal brand **Cloudkid&trade;**): [rainier.cloudkid.link ↗](https://rainier.cloudkid.link)
 
 ### 02 — Stack
 
@@ -48,5 +43,3 @@ If you think my skill sets could help your organization, let's connect.
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=rainiersvn&repo=rainiersvn&countColor=%23A964F7" />
    </a>
 </p>
-
-<p align="center"><sub>Designed &amp; built in Cape Town · 8000</sub></p>
