@@ -12,26 +12,24 @@
 
 <p align="center"><img src="./divider.svg" width="640" height="4" alt=""></p>
 
-### 01 — About
+### 01 — Website
 
-I'm a Cape Town-based DevOps Engineer building software professionally since February 2018. I started full-stack and gravitated to cloud-first systems and automation — the parts of software that scale, improve reliability, and make teams faster.
+- **Personal site** (built under my personal brand **Cloudkid&trade;**): [rainier.cloudkid.link ↗](https://rainier.cloudkid.link)
 
-Today I focus on Platform and DevOps Engineering: observability, infrastructure automation, and secure, resilient architectures. Long-term, I'm working toward becoming a **DevSecOps architect**.
+### 02 — Stack
 
-More at [rainier.cloudkid.link ↗](https://rainier.cloudkid.link) — built under my personal brand **Cloudkid&trade;**.
+- **Languages**: PowerShell · C# · Bash · SQL · Scriban · PromQL · Node.js
+- **Cloud**: Azure · AWS · GCP · Cloudflare · Kubernetes · Terraform
+- **DevOps**: Docker · Nginx · GitHub Actions · Ansible · CI/CD
+- **Databases**: SQL Server · Entity Framework
 
-### 02 — Experience
+### 03 — Current Projects
 
-- **DevOps Specialist · Shareholder**, Singular Systems — `05.2023 — Present`
-  Platform stability and expansion — Kubernetes · Terraform · GitHub Actions · Prometheus/Grafana. Offered shares within two years.
-- **Cloud Engineer**, Hooligan Development — `09.2022 — 04.2023 · 8m`
-  Live-streaming infrastructure for millions of concurrent users (incl. DAZN Poland) on AWS via Terraform. 99.9% uptime target.
-- **Software Engineer**, Kurtosys Systems — `09.2020 — 08.2022 · 2y`
-  Owned 5–6 backend microservices end-to-end. Led a fleet-wide Lambda runtime modernization.
-- **Junior Full-Stack Developer**, Seed Analytics — `02.2018 — 08.2020 · 2y 7m`
-  Full-stack across CakePHP, Java microservices and AWS. First cloud migration: EC2 → ECS.
+- [Korban Ministries ↗](https://korbanministries.co.za/) — online gospel ministry platform. Managed CMS, automated deploys, CDN-backed media.
+- [Cloudkid Webinar Platform ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
+- [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — private gallery for Zevenwacht Wine Estate. Secure storage, image optimization, edge delivery.
 
-### 03 — Certifications
+### 04 — Certifications
 
 `8× cloud certified` across AWS · Azure · HashiCorp · GitHub.
 
@@ -47,20 +45,7 @@ More at [rainier.cloudkid.link ↗](https://rainier.cloudkid.link) — built und
 | [AWS Developer Associate ↗](https://www.credly.com/badges/a362e869-bda3-49e5-8e1c-ca7a0aaaba07) | AWS | 02.2023 |
 | Higher Cert. Information Systems Engineering | Eduvos | 02.2018 · 81% |
 
-### 04 — Stack
-
-- **Languages**: PowerShell · C# · Bash · SQL · Scriban · PromQL · Node.js
-- **Cloud**: Azure · AWS · GCP · Cloudflare · Kubernetes · Terraform
-- **DevOps**: Docker · Nginx · GitHub Actions · Ansible · CI/CD
-- **Databases**: SQL Server · Entity Framework
-
-### 05 — Selected Work
-
-- [Korban Ministries ↗](https://korbanministries.co.za/) — online gospel ministry platform. Managed CMS, automated deploys, CDN-backed media.
-- [Cloudkid Webinar Platform ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
-- [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — private gallery for Zevenwacht Wine Estate. Secure storage, image optimization, edge delivery.
-
-### 06 — Contact
+### 05 — Contact
 
 Open to new roles. If my experience in Cloud, DevOps, Automation, or Platform Engineering could help your organization, I'm glad to talk.
 
