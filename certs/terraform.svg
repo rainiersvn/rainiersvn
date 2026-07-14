@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220" height="118" viewBox="0 0 220 118" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t-terraform">
+  <title id="t-terraform">Terraform Associate (003) — HashiCorp, 08.2024</title>
+  <defs>
+    <linearGradient id="card-terraform" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#23232F"/>
+      <stop offset="100%" stop-color="#15151E"/>
+    </linearGradient>
+    <linearGradient id="chip-terraform" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#623CE433"/>
+      <stop offset="100%" stop-color="#623CE40D"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="219" height="117" rx="16" fill="url(#card-terraform)" stroke="#31313F"/>
+  <rect x="16" y="16" width="30" height="30" rx="9" fill="url(#chip-terraform)"/>
+  <svg x="23.0" y="23.0" width="16" height="16" viewBox="0 0 50 72" fill="#8B7CF4" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" d="m17.2,17.5l15.5,9v18l-15.5-9v-18Z"/>
+      <path fill-rule="evenodd" d="m34.5,26.5v18l15.5-9v-18l-15.5,9Z"/>
+      <path fill-rule="evenodd" d="m0,7.5v18l15.5,9v-18L0,7.5Z"/>
+      <path fill-rule="evenodd" d="m17.2,55.5l15.5,9v-18l-15.5-9v18Z"/>
+    </svg>
+  <text x="204" y="36" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8A8798">08.2024</text>
+  <text y="67" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#F2F1F6"><tspan x="16" dy="0">Terraform Associate</tspan><tspan x="16" dy="17">(003)</tspan></text>
+  <text x="16" y="102" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.1" fill="#8A8798">HASHICORP &#8599;</text>
+</svg>
