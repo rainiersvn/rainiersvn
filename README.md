@@ -49,7 +49,11 @@
 <td width="33%"><a href="https://www.credly.com/badges/a362e869-bda3-49e5-8e1c-ca7a0aaaba07" target="_blank" rel="noopener"><img src="./certs/aws-dev.svg" width="100%" alt="AWS Developer Associate — AWS, 02.2023"></a></td>
 <td width="33%">&nbsp;</td>
 </tr>
-<tr><td colspan="3"><b>Qualifications</b></td></tr>
+</table>
+
+**Qualifications**
+
+<table width="100%">
 <tr>
 <td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/eduvos.pdf" target="_blank" rel="noopener"><img src="./certs/eduvos.svg" width="100%" alt="Higher Cert. Information Systems Engineering — Eduvos, 02.2018 · 81%"></a></td>
 <td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/nsc.pdf" target="_blank" rel="noopener"><img src="./certs/nsc.svg" width="100%" alt="National Senior Certificate — Umalusi, 12.2016"></a></td>
