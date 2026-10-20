@@ -16,21 +16,15 @@
 
 - **Personal site** (built under my personal brand **Cloudkid&trade;**): [rainier.cloudkid.link ↗](https://rainier.cloudkid.link)
 
-### 02 — Stack
+### 02 — Current Projects
 
-- **Languages**: PowerShell · C# · Bash · SQL · Scriban · PromQL · Node.js
-- **Cloud**: Azure · AWS · GCP · Cloudflare · Kubernetes · Terraform
-- **DevOps**: Docker · Nginx · GitHub Actions · Ansible · CI/CD
-- **Databases**: SQL Server · Entity Framework
-
-### 03 — Current Projects
-
-- [Korban Ministries ↗](https://korbanministries.co.za/) — online gospel ministry platform. Managed CMS, automated deploys, CDN-backed media.
-- [Cloudkid Webinar Platform ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
+- [CK Labs: Live Meetings ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
 - [Cloudkid Explorer ↗](https://explorer.cloudkid.link/) — access-gated explorer for the webinar platform. Protected by Cloudflare Access, managed as code.
-- [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — private gallery for Zevenwacht Wine Estate. Secure storage, image optimization, edge delivery.
+- [Tygerberg SDA Church Website ↗](https://sdatygerberg.co.za/) — bilingual site on Cloudflare Workers with edge API and gated dev-to-prod deploys.
+- [Korban Ministries ↗](https://korbanministries.co.za/) — gospel ministry platform. CMS, automated deploys, CDN-backed media.
+- [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — public engagement & wedding photo and video gallery. Secure storage, image optimization, edge delivery.
 
-### 04 — Qualifications & Certifications
+### 03 — Qualifications & Certifications
 
 `8× cloud certified` across AWS · Azure · HashiCorp · GitHub.
 
@@ -59,7 +53,7 @@
 </tr>
 </table>
 
-### 05 — Contact
+### 04 — Contact
 
 Open to new roles. If my experience in Cloud, DevOps, Automation, Platform or Infrastructure Engineering could help your organization, I'd be happy to chat.
 
