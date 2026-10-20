@@ -33,31 +33,40 @@
 
 `8× cloud certified` across AWS · Azure · HashiCorp · GitHub.
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%"><a href="https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/e1c148b6c3e965a9"><img src="./certs/github-admin.svg" width="100%" alt="GitHub Administration — GitHub, 12.2025"></a></td>
-<td width="33%"><a href="https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/865a600e6fbedd3a"><img src="./certs/github-actions.svg" width="100%" alt="GitHub Actions — GitHub, 11.2025"></a></td>
-<td width="33%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/rainiervanniekerk-2216/7C0E9518B051F71E"><img src="./certs/azure-expert.svg" width="100%" alt="Azure Solutions Architect Expert — Azure, 09.2025"></a></td>
+<td width="33%"><a href="https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/e1c148b6c3e965a9" target="_blank" rel="noopener"><img src="./certs/github-admin.svg" width="100%" alt="GitHub Administration — GitHub, 12.2025"></a></td>
+<td width="33%"><a href="https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/865a600e6fbedd3a" target="_blank" rel="noopener"><img src="./certs/github-actions.svg" width="100%" alt="GitHub Actions — GitHub, 11.2025"></a></td>
+<td width="33%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/rainiervanniekerk-2216/7C0E9518B051F71E" target="_blank" rel="noopener"><img src="./certs/azure-expert.svg" width="100%" alt="Azure Solutions Architect Expert — Azure, 09.2025"></a></td>
 </tr>
 <tr>
-<td width="33%"><a href="https://www.credly.com/badges/0991661f-0e97-44e7-b34f-85cb7ccf249c"><img src="./certs/terraform.svg" width="100%" alt="Terraform Associate (003) — HashiCorp, 08.2024"></a></td>
-<td width="33%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/rainiervanniekerk-2216/236D28C4BC6C5223"><img src="./certs/azure-admin.svg" width="100%" alt="Azure Administrator Associate — Azure, 11.2023"></a></td>
-<td width="33%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/rainiervanniekerk-2216/23CDA41A406ADE34"><img src="./certs/azure-dev.svg" width="100%" alt="Azure Developer Associate — Azure, 09.2023"></a></td>
+<td width="33%"><a href="https://www.credly.com/badges/0991661f-0e97-44e7-b34f-85cb7ccf249c" target="_blank" rel="noopener"><img src="./certs/terraform.svg" width="100%" alt="Terraform Associate (003) — HashiCorp, 08.2024"></a></td>
+<td width="33%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/rainiervanniekerk-2216/236D28C4BC6C5223" target="_blank" rel="noopener"><img src="./certs/azure-admin.svg" width="100%" alt="Azure Administrator Associate — Azure, 11.2023"></a></td>
+<td width="33%"><a href="https://learn.microsoft.com/api/credentials/share/en-us/rainiervanniekerk-2216/23CDA41A406ADE34" target="_blank" rel="noopener"><img src="./certs/azure-dev.svg" width="100%" alt="Azure Developer Associate — Azure, 09.2023"></a></td>
 </tr>
 <tr>
-<td width="33%"><a href="https://www.credly.com/badges/81ecee11-ec71-40db-a40a-1fe1fa679b6e"><img src="./certs/aws-architect.svg" width="100%" alt="AWS Solutions Architect Associate — AWS, 05.2023"></a></td>
-<td width="33%"><a href="https://www.credly.com/badges/a362e869-bda3-49e5-8e1c-ca7a0aaaba07"><img src="./certs/aws-dev.svg" width="100%" alt="AWS Developer Associate — AWS, 02.2023"></a></td>
-<td width="33%"><img src="./certs/eduvos.svg" width="100%" alt="Higher Cert. Information Systems Engineering — Eduvos, 02.2018 · 81%"></td>
+<td width="33%"><a href="https://www.credly.com/badges/81ecee11-ec71-40db-a40a-1fe1fa679b6e" target="_blank" rel="noopener"><img src="./certs/aws-architect.svg" width="100%" alt="AWS Solutions Architect Associate — AWS, 05.2023"></a></td>
+<td width="33%"><a href="https://www.credly.com/badges/a362e869-bda3-49e5-8e1c-ca7a0aaaba07" target="_blank" rel="noopener"><img src="./certs/aws-dev.svg" width="100%" alt="AWS Developer Associate — AWS, 02.2023"></a></td>
+<td width="33%">&nbsp;</td>
+</tr>
+</table>
+
+**Qualifications**
+
+<table width="100%">
+<tr>
+<td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/eduvos.pdf" target="_blank" rel="noopener"><img src="./certs/eduvos.svg" width="100%" alt="Higher Cert. Information Systems Engineering — Eduvos, 02.2018 · 81%"></a></td>
+<td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/nsc.pdf" target="_blank" rel="noopener"><img src="./certs/nsc.svg" width="100%" alt="National Senior Certificate — Umalusi, 12.2016"></a></td>
+<td width="33%">&nbsp;</td>
 </tr>
 </table>
 
 ### 05 — Contact
 
-Open to new roles. If my experience in Cloud, DevOps, Automation, or Platform Engineering could help your organization, I'm glad to talk.
+Open to new roles. If my experience in Cloud, DevOps, Automation, Platform or Infrastructure Engineering could help your organization, I'd be happy to chat.
 
 - **Email**: [rainier@cloudkid.link](mailto:rainier@cloudkid.link)
 - **LinkedIn**: [rainier-cloudkid ↗](https://www.linkedin.com/in/rainier-cloudkid/)
-- **GitHub**: [@rainiersvn ↗](https://github.com/rainiersvn)
 
 <br/>
 <p align="center"><img src="./divider.svg" width="640" height="4" alt=""></p>
