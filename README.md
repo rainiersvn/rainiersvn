@@ -18,9 +18,10 @@
 
 ### 02 — Current Projects
 
-- [Korban Ministries ↗](https://korbanministries.co.za/) — online gospel ministry platform. Managed CMS, automated deploys, CDN-backed media.
-- [Cloudkid Webinar Platform ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
-- [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — private gallery for Zevenwacht Wine Estate. Secure storage, image optimization, edge delivery.
+- [CK Labs: Live Meetings ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
+- [Tygerberg SDA Church Website ↗](https://sdatygerberg.co.za/) — bilingual site on Cloudflare Workers with edge API and gated dev-to-prod deploys.
+- [Korban Ministries ↗](https://korbanministries.co.za/) — gospel ministry platform. CMS, automated deploys, CDN-backed media.
+- [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — public engagement & wedding photo and video gallery. Secure storage, image optimization, edge delivery.
 
 ### 03 — Qualifications & Certifications
 
