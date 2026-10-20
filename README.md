@@ -33,7 +33,7 @@
 
 `8× cloud certified` across AWS · Azure · HashiCorp · GitHub.
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%"><a href="https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/e1c148b6c3e965a9" target="_blank" rel="noopener"><img src="./certs/github-admin.svg" width="100%" alt="GitHub Administration — GitHub, 12.2025"></a></td>
 <td width="33%"><a href="https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/865a600e6fbedd3a" target="_blank" rel="noopener"><img src="./certs/github-actions.svg" width="100%" alt="GitHub Actions — GitHub, 11.2025"></a></td>
@@ -47,16 +47,16 @@
 <tr>
 <td width="33%"><a href="https://www.credly.com/badges/81ecee11-ec71-40db-a40a-1fe1fa679b6e" target="_blank" rel="noopener"><img src="./certs/aws-architect.svg" width="100%" alt="AWS Solutions Architect Associate — AWS, 05.2023"></a></td>
 <td width="33%"><a href="https://www.credly.com/badges/a362e869-bda3-49e5-8e1c-ca7a0aaaba07" target="_blank" rel="noopener"><img src="./certs/aws-dev.svg" width="100%" alt="AWS Developer Associate — AWS, 02.2023"></a></td>
-<td width="33%"></td>
+<td width="33%">&nbsp;</td>
 </tr>
 </table>
 
 <p><b>Qualifications</b> — Higher Cert + NSC</p>
-<table>
+<table width="100%">
 <tr>
 <td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/eduvos.pdf" target="_blank" rel="noopener"><img src="./certs/eduvos.svg" width="100%" alt="Higher Cert. Information Systems Engineering — Eduvos, 02.2018 · 81%"></a></td>
 <td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/nsc.pdf" target="_blank" rel="noopener"><img src="./certs/nsc.svg" width="100%" alt="National Senior Certificate — Umalusi, 12.2016"></a></td>
-<td width="33%"></td>
+<td width="33%">&nbsp;</td>
 </tr>
 </table>
 
