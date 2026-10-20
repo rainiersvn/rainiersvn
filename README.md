@@ -27,6 +27,7 @@
 
 - [Korban Ministries ↗](https://korbanministries.co.za/) — online gospel ministry platform. Managed CMS, automated deploys, CDN-backed media.
 - [Cloudkid Webinar Platform ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
+- [Cloudkid Explorer ↗](https://explorer.cloudkid.link/) — access-gated explorer for the webinar platform. Protected by Cloudflare Access, managed as code.
 - [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — private gallery for Zevenwacht Wine Estate. Secure storage, image optimization, edge delivery.
 
 ### 04 — Qualifications & Certifications
