@@ -16,20 +16,13 @@
 
 - **Personal site** (built under my personal brand **Cloudkid&trade;**): [rainier.cloudkid.link ↗](https://rainier.cloudkid.link)
 
-### 02 — Stack
-
-- **Languages**: PowerShell · C# · Bash · SQL · Scriban · PromQL · Node.js
-- **Cloud**: Azure · AWS · GCP · Cloudflare · Kubernetes · Terraform
-- **DevOps**: Docker · Nginx · GitHub Actions · Ansible · CI/CD
-- **Databases**: SQL Server · Entity Framework
-
-### 03 — Current Projects
+### 02 — Current Projects
 
 - [Korban Ministries ↗](https://korbanministries.co.za/) — online gospel ministry platform. Managed CMS, automated deploys, CDN-backed media.
 - [Cloudkid Webinar Platform ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
 - [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — private gallery for Zevenwacht Wine Estate. Secure storage, image optimization, edge delivery.
 
-### 04 — Qualifications & Certifications
+### 03 — Qualifications & Certifications
 
 `8× cloud certified` across AWS · Azure · HashiCorp · GitHub.
 
@@ -58,7 +51,7 @@
 </tr>
 </table>
 
-### 05 — Contact
+### 04 — Contact
 
 Open to new roles. If my experience in Cloud, DevOps, Automation, Platform or Infrastructure Engineering could help your organization, I'd be happy to chat.
 
