@@ -19,6 +19,7 @@
 ### 02 — Current Projects
 
 - [CK Labs: Live Meetings ↗](https://online.cloudkid.link/) — live-streaming webinar platform. Infrastructure, observability, zero-touch deploys.
+- [Cloudkid Explorer ↗](https://explorer.cloudkid.link/) — access-gated explorer for the webinar platform. Protected by Cloudflare Access, managed as code.
 - [Tygerberg SDA Church Website ↗](https://sdatygerberg.co.za/) — bilingual site on Cloudflare Workers with edge API and gated dev-to-prod deploys.
 - [Korban Ministries ↗](https://korbanministries.co.za/) — gospel ministry platform. CMS, automated deploys, CDN-backed media.
 - [Wedding Photo Gallery ↗](https://wedding.cloudkid.link/) — public engagement & wedding photo and video gallery. Secure storage, image optimization, edge delivery.
