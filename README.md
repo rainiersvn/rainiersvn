@@ -34,7 +34,7 @@
 `8× cloud certified` across AWS · Azure · HashiCorp · GitHub.
 
 <table width="100%">
-<tr><td colspan="3">Certifications: 8× cloud certified across AWS · Azure · HashiCorp · GitHub.</td></tr>
+<tr><td colspan="3">Certifications: 8× cloud certified across AWS · Azure · HashiCorp · GitHub</td></tr>
 <tr>
 <td width="33%"><a href="https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/e1c148b6c3e965a9" target="_blank" rel="noopener"><img src="./certs/github-admin.svg" width="100%" alt="GitHub Administration — GitHub, 12.2025"></a></td>
 <td width="33%"><a href="https://learn.microsoft.com/en-us/users/rainiervanniekerk-2216/credentials/865a600e6fbedd3a" target="_blank" rel="noopener"><img src="./certs/github-actions.svg" width="100%" alt="GitHub Actions — GitHub, 11.2025"></a></td>
