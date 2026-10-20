@@ -51,7 +51,7 @@
 </tr>
 </table>
 
-**Qualifications**
+### 05 — Qualifications
 
 <table width="100%">
 <tr>
@@ -61,7 +61,7 @@
 </tr>
 </table>
 
-### 05 — Contact
+### 06 — Contact
 
 Open to new roles. If my experience in Cloud, DevOps, Automation, Platform or Infrastructure Engineering could help your organization, I'd be happy to chat.
 
