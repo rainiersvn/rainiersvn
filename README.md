@@ -54,19 +54,18 @@
 <p><b>Qualifications</b> — Higher Cert + NSC</p>
 <table>
 <tr>
-<td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/eduvos.svg" target="_blank" rel="noopener"><img src="./certs/eduvos.svg" width="100%" alt="Higher Cert. Information Systems Engineering — Eduvos, 02.2018 · 81%"></a></td>
-<td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/nsc.svg" target="_blank" rel="noopener"><img src="./certs/nsc.svg" width="100%" alt="National Senior Certificate — Umalusi, 12.2016"></a></td>
+<td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/eduvos.pdf" target="_blank" rel="noopener"><img src="./certs/eduvos.svg" width="100%" alt="Higher Cert. Information Systems Engineering — Eduvos, 02.2018 · 81%"></a></td>
+<td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/nsc.pdf" target="_blank" rel="noopener"><img src="./certs/nsc.svg" width="100%" alt="National Senior Certificate — Umalusi, 12.2016"></a></td>
 <td width="33%"></td>
 </tr>
 </table>
 
 ### 05 — Contact
 
-Open to new roles. If my experience in Cloud, DevOps, Automation, or Platform Engineering could help your organization, I'm glad to talk.
+Open to new roles. If my experience in Cloud, DevOps, Automation, Platform or Infrastructure Engineering could help your organization, I'd be happy to chat.
 
 - **Email**: [rainier@cloudkid.link](mailto:rainier@cloudkid.link)
 - **LinkedIn**: [rainier-cloudkid ↗](https://www.linkedin.com/in/rainier-cloudkid/)
-- **GitHub**: [@rainiersvn ↗](https://github.com/rainiersvn)
 
 <br/>
 <p align="center"><img src="./divider.svg" width="640" height="4" alt=""></p>
