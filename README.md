@@ -47,7 +47,16 @@
 <tr>
 <td width="33%"><a href="https://www.credly.com/badges/81ecee11-ec71-40db-a40a-1fe1fa679b6e"><img src="./certs/aws-architect.svg" width="100%" alt="AWS Solutions Architect Associate — AWS, 05.2023"></a></td>
 <td width="33%"><a href="https://www.credly.com/badges/a362e869-bda3-49e5-8e1c-ca7a0aaaba07"><img src="./certs/aws-dev.svg" width="100%" alt="AWS Developer Associate — AWS, 02.2023"></a></td>
-<td width="33%"><img src="./certs/eduvos.svg" width="100%" alt="Higher Cert. Information Systems Engineering — Eduvos, 02.2018 · 81%"></td>
+<td width="33%"></td>
+</tr>
+</table>
+
+<p><b>Qualifications</b> — Higher Cert + NSC</p>
+<table>
+<tr>
+<td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/eduvos.svg" target="_blank" rel="noopener"><img src="./certs/eduvos.svg" width="100%" alt="Higher Cert. Information Systems Engineering — Eduvos, 02.2018 · 81%"></a></td>
+<td width="33%"><a href="https://github.com/rainiersvn/rainiersvn/blob/main/certs/nsc.svg" target="_blank" rel="noopener"><img src="./certs/nsc.svg" width="100%" alt="National Senior Certificate — Umalusi, 12.2016"></a></td>
+<td width="33%"></td>
 </tr>
 </table>
 
